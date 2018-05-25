@@ -12,8 +12,8 @@ windows
  
  2.Powershell (inbuild with windows)
         
+   `check`
    ```
-    Microsoft Windows [Version 10.0.16299.371] (c) 2017 Microsoft Corporation. All rights reserved.
     C:\Users\Dell>powershell
     Windows PowerShell
     Copyright (C) Microsoft Corporation. All rights reserved.
