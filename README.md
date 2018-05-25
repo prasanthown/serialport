@@ -9,6 +9,7 @@ windows
 
 # requirement
  1.Any one webserver wamp,xamp,..
+ 
  2.Powershell (inbuild with windows)
  
  
